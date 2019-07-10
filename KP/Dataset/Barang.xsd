@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Barang" targetNamespace="http://tempuri.org/Barang.xsd" xmlns:mstns="http://tempuri.org/Barang.xsd" xmlns="http://tempuri.org/Barang.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Barang" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Barang" msprop:Generator_UserDSName="Barang">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Barang" msprop:Generator_TableClassName="BarangDataTable" msprop:Generator_TableVarName="tableBarang" msprop:Generator_RowChangedName="BarangRowChanged" msprop:Generator_TablePropName="_Barang" msprop:Generator_RowDeletingName="BarangRowDeleting" msprop:Generator_RowChangingName="BarangRowChanging" msprop:Generator_RowEvHandlerName="BarangRowChangeEventHandler" msprop:Generator_RowDeletedName="BarangRowDeleted" msprop:Generator_RowClassName="BarangRow" msprop:Generator_UserTableName="Barang" msprop:Generator_RowEvArgName="BarangRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:string" minOccurs="0" />
+              <xs:element name="Nama" msprop:Generator_ColumnVarNameInTable="columnNama" msprop:Generator_ColumnPropNameInRow="Nama" msprop:Generator_ColumnPropNameInTable="NamaColumn" msprop:Generator_UserColumnName="Nama" type="xs:string" minOccurs="0" />
+              <xs:element name="Jumlah" msprop:Generator_ColumnVarNameInTable="columnJumlah" msprop:Generator_ColumnPropNameInRow="Jumlah" msprop:Generator_ColumnPropNameInTable="JumlahColumn" msprop:Generator_UserColumnName="Jumlah" type="xs:string" minOccurs="0" />
+              <xs:element name="Harga" msprop:Generator_ColumnVarNameInTable="columnHarga" msprop:Generator_ColumnPropNameInRow="Harga" msprop:Generator_ColumnPropNameInTable="HargaColumn" msprop:Generator_UserColumnName="Harga" type="xs:string" minOccurs="0" />
+              <xs:element name="Diskon1" msprop:Generator_ColumnVarNameInTable="columnDiskon1" msprop:Generator_ColumnPropNameInRow="Diskon1" msprop:Generator_ColumnPropNameInTable="Diskon1Column" msprop:Generator_UserColumnName="Diskon1" type="xs:string" minOccurs="0" />
+              <xs:element name="Diskon2" msprop:Generator_ColumnVarNameInTable="columnDiskon2" msprop:Generator_ColumnPropNameInRow="Diskon2" msprop:Generator_ColumnPropNameInTable="Diskon2Column" msprop:Generator_UserColumnName="Diskon2" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:string" minOccurs="0" />
+              <xs:element name="Kemasan" msprop:Generator_ColumnVarNameInTable="columnKemasan" msprop:Generator_ColumnPropNameInRow="Kemasan" msprop:Generator_ColumnPropNameInTable="KemasanColumn" msprop:Generator_UserColumnName="Kemasan" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Labarugi" targetNamespace="http://tempuri.org/Labarugi.xsd" xmlns:mstns="http://tempuri.org/Labarugi.xsd" xmlns="http://tempuri.org/Labarugi.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Labarugi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Labarugi" msprop:Generator_UserDSName="Labarugi">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Labarugi" msprop:Generator_TableClassName="LabarugiDataTable" msprop:Generator_TableVarName="tableLabarugi" msprop:Generator_TablePropName="_Labarugi" msprop:Generator_RowDeletingName="LabarugiRowDeleting" msprop:Generator_RowChangingName="LabarugiRowChanging" msprop:Generator_RowEvHandlerName="LabarugiRowChangeEventHandler" msprop:Generator_RowDeletedName="LabarugiRowDeleted" msprop:Generator_UserTableName="Labarugi" msprop:Generator_RowChangedName="LabarugiRowChanged" msprop:Generator_RowEvArgName="LabarugiRowChangeEvent" msprop:Generator_RowClassName="LabarugiRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Kode" msprop:Generator_ColumnVarNameInTable="columnKode" msprop:Generator_ColumnPropNameInRow="Kode" msprop:Generator_ColumnPropNameInTable="KodeColumn" msprop:Generator_UserColumnName="Kode" type="xs:string" minOccurs="0" />
+              <xs:element name="Nomer" msprop:Generator_ColumnVarNameInTable="columnNomer" msprop:Generator_ColumnPropNameInRow="Nomer" msprop:Generator_ColumnPropNameInTable="NomerColumn" msprop:Generator_UserColumnName="Nomer" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:int" minOccurs="0" />
+              <xs:element name="Laba" msprop:Generator_ColumnVarNameInTable="columnLaba" msprop:Generator_ColumnPropNameInRow="Laba" msprop:Generator_ColumnPropNameInTable="LabaColumn" msprop:Generator_UserColumnName="Laba" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

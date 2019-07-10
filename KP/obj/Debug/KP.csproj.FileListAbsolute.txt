@@ -1,0 +1,204 @@
+C:\Users\USER\Desktop\KP\KP\KP\bin\Debug\KP.exe.config
+C:\Users\USER\Desktop\KP\KP\KP\bin\Debug\KP.exe
+C:\Users\USER\Desktop\KP\KP\KP\bin\Debug\KP.pdb
+C:\Users\USER\Desktop\KP\KP\KP\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\KP\KP\KP\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\KP\KP\KP\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\KP\KP\KP\obj\Debug\KP.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\KP\KP\KP\obj\Debug\KP.Form1.resources
+C:\Users\USER\Desktop\KP\KP\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\USER\Desktop\KP\KP\KP\obj\Debug\KP.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\KP\KP\KP\obj\Debug\KP.exe
+C:\Users\USER\Desktop\KP\KP\KP\obj\Debug\KP.pdb
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\bin\Debug\KP.exe.config
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.exe
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.pdb
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.Login.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.MdiParent.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\bin\Debug\KP.exe
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\bin\Debug\KP.pdb
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.FormBarang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.FormFindBarang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.FormPenjualan.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.FormCustomer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.FormFindCustomer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.FormFindSupplier.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.FormSupplier.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.csproj.CopyComplete
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.FormFindPenjualan.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.SalesInformation.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.FormPembelian.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.PurchaseInformation.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.Kategori.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.DeletedList.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP\KP\obj\Debug\KP.FormFindPembelian.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.DeletedList.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.FormBarang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.FormCustomer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.FormFindBarang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.FormFindCustomer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.FormFindPembelian.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.FormFindPenjualan.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.FormFindSupplier.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.FormPembelian.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.FormPenjualan.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.FormSupplier.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.Kategori.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.Login.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.MdiParent.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.PurchaseInformation.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.SalesInformation.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.exe
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.pdb
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\bin\Debug\KP.exe.config
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\bin\Debug\KP.exe
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\bin\Debug\KP.pdb
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\Semester 6\KP\KP - Copy\KP\obj\Debug\KP.csproj.CopyComplete
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\KP.exe.config
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\KP.exe
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\KP.pdb
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.DeletedList.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormBarang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormCustomer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormFindBarang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormFindCustomer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormFindPembelian.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormFindPenjualan.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormFindSupplier.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormKoreksiStok.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormPembelian.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormPenjualan.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormSupplier.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.Kategori.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.Login.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.MdiParent.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.PurchaseInformation.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.SalesInformation.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.csproj.CopyComplete
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.exe
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.pdb
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormPromo.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormNotaCustomer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormNotaSupplier.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormBayarPiutang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormBayarHutang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.DeletedPromo.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormDetailPembayaran.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\stdole.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormNoDrop.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormKartuStok.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormLaporanHutang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormPoinPenjualan.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormPoinPembelian.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormLaporanTransaksi.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\FlashControlV71.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.ReportViewer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormUpdateHpp.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormLaporanPiutang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormUser.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 1\KP\obj\Debug\KP.FormLabaRugi.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.DeletedList.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.DeletedPromo.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormBarang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormBayarHutang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormBayarPiutang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormCustomer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormDetailPembayaran.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormFindBarang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormFindCustomer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormFindPembelian.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormFindPenjualan.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormFindSupplier.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormKartuStok.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormKoreksiStok.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormLabaRugi.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormLaporanHutang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormLaporanPiutang.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormLaporanTransaksi.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormNoDrop.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormNotaCustomer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormNotaSupplier.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormPembelian.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormPenjualan.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormPoinPembelian.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormPoinPenjualan.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormPromo.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormSupplier.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormUpdateHpp.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.FormUser.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.Kategori.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.Login.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.MdiParent.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.PurchaseInformation.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.ReportViewer.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.SalesInformation.resources
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.exe
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.pdb
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\KP.exe.config
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\KP.exe
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\KP.pdb
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\FlashControlV71.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\stdole.dll
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\Semester 6\KP\KP - 2\KP\obj\Debug\KP.csproj.CopyComplete
